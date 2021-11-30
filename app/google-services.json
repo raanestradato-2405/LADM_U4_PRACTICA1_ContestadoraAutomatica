@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "509424891744",
+    "project_id": "unidad4-8e45d",
+    "storage_bucket": "unidad4-8e45d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509424891744:android:7ce38fb55327ff86ef1005",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u4_practica1_autocontestadora_abrilperez_ramonestrada_5b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509424891744-pb84843d8b0o61f6root449gnb36auqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYjM_VPAIn0Ou547T0o5TAkKmWnUjUjpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509424891744-pb84843d8b0o61f6root449gnb36auqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509424891744:android:73e68bb47b852a2eef1005",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u4_practica1_autocontestadoraabrilperezramonestrada5b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509424891744-pb84843d8b0o61f6root449gnb36auqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYjM_VPAIn0Ou547T0o5TAkKmWnUjUjpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509424891744-pb84843d8b0o61f6root449gnb36auqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
